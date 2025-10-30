@@ -1,73 +1,162 @@
-# Welcome to your Lovable project
+# 💼 Willis Otondi – AI/ML Solutions Architect Portfolio
 
-## Project info
+A **modern, professional, single-page portfolio website** for **Willis Otondi**, a Biomedical Engineer transitioning into **AI/ML Solutions Architecture**.  
+The site embodies a **content-first minimalist** aesthetic with a **tech-forward yet trustworthy** tone — tailored for healthcare and financial services audiences.
 
-**URL**: https://lovable.dev/projects/1eada508-bed5-4bf5-9d74-c5364bac423a
+---
 
-## How can I edit this code?
+## 🌐 Overview
 
-There are several ways of editing your application.
+This portfolio showcases Willis’s professional journey across **health-tech, fintech, and data-driven AI solutions**.  
+It emphasizes clarity, speed, and credibility while delivering a seamless user experience through responsive design and subtle interactivity.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1eada508-bed5-4bf5-9d74-c5364bac423a) and start prompting.
+## 🧩 Sections
 
-Changes made via Lovable will be committed automatically to this repo.
+### 1. 🏠 Hero Section
+- Clean gradient or white background with a subtle mesh overlay.  
+- Prominent headshot, name, tagline, and CTAs (“View Projects” / “Get in Touch”).  
+- Sticky transparent navigation that solidifies on scroll.  
 
-**Use your preferred IDE**
+**Tagline:**  
+> Designing AI solutions that empower people and endure.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**Supporting Line:**  
+> I create intuitive products that users love, architect solutions that last, and mentor minds that drive change—because innovation isn't just about technology, it's about people.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+### 2. 👤 About Section
+Two-column layout featuring:
+- A professional portrait (with Cerulean border).
+- A concise bio and key value highlights:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+| Area | Focus |
+|------|-------|
+| 🩺 Healthcare + AI | Building compliant, scalable health-tech systems |
+| 🏦 Fintech Expertise | Fraud detection, onboarding automation, process optimization |
+| 🧠 Technical Leadership | Leading cross-functional teams from MVP to production |
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 3. 🎓 Resume Section
+A structured resume with accordion or tabbed layout.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+**Education**
+- Cyber Shujaa – Data & AI Program (2025)
+- eMobilis – AWS re/Start Scholarship (2025)
+- Kenyatta University – BSc. Biomedical Engineering (2021)
 
-**Edit a file directly in GitHub**
+**Experience**
+- Equity Group Holdings – Service Centre Officer (2024–Present)
+- E&M Technology House – Tech Lead & Developer (2024)
+- Equity Group Holdings – Relationship Officer (2021–2023)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Certifications**
+Google UX Design | Product Management | Agile PM | Microsoft Business Analysis | Microsoft Software Dev
 
-**Use GitHub Codespaces**
+**Skills**
+- **AI/ML & Data**: Python, Pandas, Scikit-learn, ML Strategy  
+- **BI & Analytics**: Power BI, Tableau, SQL  
+- **Cloud & Dev**: AWS, Git, Figma  
+- **Leadership**: Agile, Mentorship, Stakeholder Comms
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+### 4. 🚀 Projects Section
+Responsive card grid (3-column desktop, 1-column mobile).
 
-This project is built with:
+#### Featured Projects
+**TeleAfia – Health-Tech Ecosystem Platform**  
+Role: Tech Lead & Solutions Architect  
+Tech: Python, Microservices, AWS, Figma  
+> Launched MVP bridging healthcare access in underserved regions.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+**Equity Bank Digital Onboarding Initiative**  
+Role: CX & Process Analyst  
+> Improved resolution times by 15% through automation and process mapping.
 
-## How can I deploy this project?
+**ELP Uganda Innovation Hub**  
+Role: Lead Project Coordinator  
+> Oversaw 7 projects, standardized architecture and Git workflows.
 
-Simply open [Lovable](https://lovable.dev/projects/1eada508-bed5-4bf5-9d74-c5364bac423a) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+### 5. 🧪 Lab Challenges
+Interactive accordion gallery highlighting practical data and analytics work.
 
-Yes, you can!
+| Challenge | Tools | Key Takeaway |
+|------------|--------|--------------|
+| Web Scraping & Data Automation | Python, BeautifulSoup | Robust parsing and cleaning are critical |
+| Netflix Data Wrangling | Pandas, NumPy | Data prep = 80% of ML success |
+| EDA Masterclass | Matplotlib, Seaborn | Visualization drives insights |
+| Hotel Revenue Dashboard | Power BI | Star schema = BI performance |
+| HR Attrition Dashboard | Tableau | Visual storytelling impacts strategy |
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### 6. ✉️ Contact Section
+Deep Teal background with white text.
+
+**Headline:**  
+> Let’s build the future of AI in healthcare and finance.
+
+**Links**
+- [LinkedIn](https://www.linkedin.com/in/willis-otondi/)
+- [GitHub](https://github.com/otondi-willis)
+- 📧 otondi.willise@gmail.com  
+- 📞 +254 780 005 016
+
+**Call to Action:**  
+> “Hire me as your AI Solutions Architect”
+
+---
+
+## 🎨 Design Specifications
+
+**Color Palette**
+| Role | Color |
+|------|-------|
+| Primary | `#0A174E` (Navy) / `#003F5C` (Deep Teal) |
+| Secondary | `#6C757D` (Gray) / `#F8F9FA` (Light BG) |
+| Accent | `#007BFF` (Electric Blue) / `#2A9D8F` (Cerulean) |
+
+**Typography**
+- Headers: *Poppins Bold* / *Inter Bold*  
+- Body: *Inter Regular* / *Lato Regular*  
+- Code: *Fira Code* or *JetBrains Mono*
+
+**Layout & UI**
+- Fully responsive (mobile-first)
+- Max width: 1200px
+- Smooth scrolling
+- Subtle hover and scroll animations
+- Card shadows: `0 4px 12px rgba(0,0,0,0.08)`
+
+---
+
+## ⚙️ Tech Stack
+
+**Frontend**
+- HTML5  
+- Tailwind CSS / Bootstrap 5  
+- Vanilla JS or Alpine.js  
+
+**Deployment**
+- GitHub Pages or Vercel  
+
+**Optional Enhancements**
+- Micro-interactions with AOS.js or Framer Motion  
+- Lazy loading for images  
+- SEO metadata with Willis’s full name + AI keywords  
+
+---
+
+## 📈 SEO Optimization
+Add the following meta tags in `<head>`:
+
+```html
+<meta name="description" content="Willis Otondi – AI/ML Solutions Architect portfolio showcasing health-tech and fintech innovation through AI, data analytics, and cloud solutions.">
+<meta name="keywords" content="Willis Otondi, AI Solutions Architect, Biomedical Engineer, HealthTech, FinTech, Machine Learning, Power BI, Tableau, AWS">
+<meta name="author" content="Willis Otondi">
