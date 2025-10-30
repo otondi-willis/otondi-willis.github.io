@@ -153,10 +153,4 @@ Deep Teal background with white text.
 
 ---
 
-## 📈 SEO Optimization
-Add the following meta tags in `<head>`:
 
-```html
-<meta name="description" content="Willis Otondi – AI/ML Solutions Architect portfolio showcasing health-tech and fintech innovation through AI, data analytics, and cloud solutions.">
-<meta name="keywords" content="Willis Otondi, AI Solutions Architect, Biomedical Engineer, HealthTech, FinTech, Machine Learning, Power BI, Tableau, AWS">
-<meta name="author" content="Willis Otondi">
