@@ -19,7 +19,7 @@ const Projects = () => {
       tech: ["Python", "Microservices", "AWS", "Figma", "Payment APIs"],
     },
     {
-      title: "Equity Bank Digital Onboarding Initiative",
+      title: "Digital Onboarding Initiative",
       description: "Process optimization and digital transformation strategy",
       image: equityImg,
       role: "CX & Process Analyst",
